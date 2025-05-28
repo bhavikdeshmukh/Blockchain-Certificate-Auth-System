@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 `OUTDATED REPO: CREATE PR IF YOU WISH TO CONTRIBUTE` :shipit:
 
@@ -112,3 +113,7 @@ Certificate Id : b2a90ded903d7b07b47c1bec2b398fd788deef5f
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Happy coding!! :sunglasses:
+=======
+# Blockchain-Certificate-Auth-System
+A secure certificate authentication system using blockchain to store and verify academic or professional credentials. It ensures data integrity, prevents forgery, and allows instant verification through a decentralized and tamper-proof network.
+>>>>>>> 48b757a456223a952abd4d47c4aa0e018f40a991
