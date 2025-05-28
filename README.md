@@ -87,33 +87,3 @@ The contract can be deployed in any test networks. We are using Ropsten test net
    ```BASH
    truffle migrate
    ```
-### Deploy client to heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-Install [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) & follow the [steps](https://devcenter.heroku.com/articles/deploying-nodejs#deploy-your-application-to-heroku) to deploy.
-
-## Youtube project demo video
-
-[![youtube-picture](https://img.youtube.com/vi/qj-LdkTO9Ic/maxresdefault.jpg)](https://youtu.be/qj-LdkTO9Ic)
-
-
-### Client side Heroku
-
-Certificate Id : b2a90ded903d7b07b47c1bec2b398fd788deef5f
-
-[Click here](https://sadg-university.herokuapp.com/) to view and verify certificate.
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-| ![st](https://github.com/arun664.png?size=50)<br /> [Arun Kumar M](https://github.com/arun664) | ![st](https://github.com/vummanenidilip.png?size=50)<br />  [Dilip Vummaneni](https://github.com/vummanenidilip) | ![st](https://github.com/gnanendraprasad.png?size=50)<br /> [Gnanendra Prasad T](https://github.com/gnanendraprasad) | ![st](https://github.com/shashi9690.png?size=50)<br /> [Shashidhara N](https://github.com/shashi9690)|
-| :---: | :---: | :---: | :---: |
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-Happy coding!! :sunglasses:
-=======
-# Blockchain-Certificate-Auth-System
-A secure certificate authentication system using blockchain to store and verify academic or professional credentials. It ensures data integrity, prevents forgery, and allows instant verification through a decentralized and tamper-proof network.
->>>>>>> 48b757a456223a952abd4d47c4aa0e018f40a991
